@@ -1,7 +1,11 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
+<<<<<<< Updated upstream
   "private": true,
+=======
+  "private": false,
+>>>>>>> Stashed changes
   "homepage": "https://LFV1220.github.io/React-Weather-App",
   "dependencies": {
     "-": "^0.0.1",
